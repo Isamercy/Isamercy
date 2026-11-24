@@ -15,7 +15,7 @@ I enjoy exploring the intersection of Physics, Data Science, and Technology.
 - CERN particle physics data exploration
 - Geophysical data analysis and modelling
 - GIS and Remote Sensing
-
+  
 💻 Technologies & Tools
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,21 +29,9 @@ I enjoy exploring the intersection of Physics, Data Science, and Technology.
 "VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 "Excel" (https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-🚀 Featured Projects
-
-1. CERN CMS Anomaly Detection
-
-A machine learning project exploring anomaly detection in particle physics event data using Python and the Isolation Forest algorithm.
-
-"🔗 View Project" (https://github.com/Isamercy/cern-cms-anomaly-detection)
-
-2. Geophysics, GIS & Remote Sensing Projects
-
-Building practical projects using QGIS and geospatial data. More projects coming soon!
-
 📊 GitHub Statistics
 
-"Mercy's GitHub Stats" (https://github-stats-extended.vercel.app/api?username=Isamercy&show_icons=true&theme=tokyonight)
+"GitHub Stats" (https://github-stats-extended.vercel.app/api?username=Isamercy&show_icons=true&theme=tokyonight)
 
 "Top Languages" (https://github-stats-extended.vercel.app/api/top-langs/?username=Isamercy&layout=compact&theme=tokyonight)
 
